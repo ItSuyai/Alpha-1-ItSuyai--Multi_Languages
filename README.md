@@ -1,4 +1,4 @@
-# Protype-4-ItSuyai--Multi_Languages
+# Alpha-1-ItSuyai--Multi_Languages
 
 EN Changes: -Added Multilanguage -Changed some parts of the design -Clear mode improved -Code was optimized
 
